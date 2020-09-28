@@ -1,8 +1,8 @@
 
-body {background-color: black;}
+body {background-color: rosybrown;}
 
 #container {
-    background-color:rosybrown;
+    background-color:black;
     color: white;
     text-align: center;
 
@@ -12,7 +12,7 @@ body {background-color: black;}
 }
 
 .left-col {
-    color:#A64AC9;
+    color:rosybrown;
     float:left;
 width:50%;}
   
@@ -23,31 +23,31 @@ width:50%;}
   width:50%;
 }
 
+h2 {color:rosybrown}
 
 .clearfix {
     clear:both;
   }
 
   .smaller-image {
-    width: 200px;
+    width: 150px;
+    border-radius:50%
   }
   .smaller-image1 {
     width: 300px;
+    
   }
 .github {
-    color:white; 
+    color:teal; 
     text-decoration: none;
     border-width:2px;
     border-style:solid;
     padding:10px;
     border-radius:10px;
-    margin:5px auto;
-    text-align: center;
-
 }
 .favorite-website {
     text-align: left;
-    color:#A64AC9; }
+    color: teal; }
 
     .left-div {
         margin:30px}
