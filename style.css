@@ -1,0 +1,53 @@
+
+body {background-color: black;}
+
+#container {
+    background-color:rosybrown;
+    color: white;
+    text-align: center;
+
+    margin: 20px auto;
+    padding: 20px;
+    font-family: 'Asap', sans-serif;
+}
+
+.left-col {
+    color:#A64AC9;
+    float:left;
+width:50%;}
+  
+
+.right-col {
+    color:white;
+    float:right;
+  width:50%;
+}
+
+
+.clearfix {
+    clear:both;
+  }
+
+  .smaller-image {
+    width: 200px;
+  }
+  .smaller-image1 {
+    width: 300px;
+  }
+.github {
+    color:white; 
+    text-decoration: none;
+    border-width:2px;
+    border-style:solid;
+    padding:10px;
+    border-radius:10px;
+    margin:5px auto;
+    text-align: center;
+
+}
+.favorite-website {
+    text-align: left;
+    color:#A64AC9; }
+
+    .left-div {
+        margin:30px}
